@@ -28,7 +28,7 @@ jumia-web-scraper/
 
 ## How to Run
 Clone the repository
-git clone https://github.com/YOUR-USERNAME/jumia-web-scraper.git
+git clone https://github.com/Deepika4456/jumia_web_scraping
 Go to project folder
 cd jumia-web-scraper
 Install dependencies
