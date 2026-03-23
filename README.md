@@ -36,6 +36,21 @@ pip install -r requirements.txt
 Run the scraper
 python scraper.py
 
+## Project Workflow
+
+1. Open Jumia website using Selenium  
+2. Load dynamic content  
+3. Extract product details  
+4. Store data using Pandas  
+5. Export to CSV file
+
+## Use Case
+
+This project can be used for:
+- Price comparison analysis  
+- Market trend analysis  
+- E-commerce data research  
+
 ## Output
 <img width="1257" height="493" alt="Screenshot 2026-03-23 192222" src="https://github.com/user-attachments/assets/427e230a-f977-4021-a630-46ee2c90ad15" />
 
