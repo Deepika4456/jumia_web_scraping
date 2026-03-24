@@ -17,24 +17,10 @@ Python
 Selenium
 Pandas
 
-## Project Structure
-
-jumia-web-scraper/
-│── scraper.py
-│── jumia_scraper.ipynb
-│── jumia_data.csv
-│── requirements.txt
-│── README.md
 
 ## How to Run
 Clone the repository
 git clone https://github.com/Deepika4456/jumia_web_scraping
-Go to project folder
-cd jumia-web-scraper
-Install dependencies
-pip install -r requirements.txt
-Run the scraper
-python scraper.py
 
 ## Project Workflow
 
